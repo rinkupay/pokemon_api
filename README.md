@@ -109,5 +109,5 @@ npm run dev
 
 
 6. Deployed in vercel 
- hosted link : 
+ hosted link : https://pokemon-api-two-gamma.vercel.app/
 
