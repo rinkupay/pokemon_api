@@ -95,6 +95,18 @@ Loader spinner shown while fetching data.
 Toast notifications shown if data fetching fails.
 
 
+INCLUDED LISTS OF FUNCTIONALITIES
+
+1. Context API
+
+2. useCallBack and UseMemo for Optimization
+
+3. Implemented Comparision tools
+
+4. Add Favorite Pokemong Component
+
+5. Included Batch fetching for optimal performance
+
 
 
 5. How to Run Locally
