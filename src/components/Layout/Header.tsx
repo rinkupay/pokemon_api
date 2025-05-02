@@ -31,6 +31,11 @@ const Header: React.FC = () => {
                 Lists
               </Link>
             </li>
+            <li>
+              <Link to="/favorites" className="hover:text-gray-200 transition">
+                Favorites
+              </Link>
+            </li>
             <li className="relative"></li>
           </ul>
         </nav>

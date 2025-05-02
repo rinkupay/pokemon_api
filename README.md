@@ -47,11 +47,16 @@ src/
 ├── components/
 │   ├── Card/
 │   │   └── Card.tsx     # Reusable card component to display Pokémon
+|   │   └── ListView.tsx  
 │   ├── Loader/
 │   │   └── Loader.tsx   # Loading spinner
 │
 ├── pages/
 │   └── Lists.tsx        # Main page displaying Pokémon list, filters, search, pagination
+|   └── ComparePage
+|   └    └── ComparePage.tsx 
+|    |___detailedView
+|             └── DetailedView.tsx 
 │
 └── App.tsx              # Application routes
 └── index.tsx            # React root entry point
